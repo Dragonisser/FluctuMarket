@@ -1,0 +1,7 @@
+name: FluctuMarket
+main: de.prwh.fluctumarket.main.FluctuMarket
+version: 0.1
+commands:
+   sell:
+      description: Sell item 
+      usage: /sell <amount/all>
